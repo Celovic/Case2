@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\celal\\source\\repos\\LenaCase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|c:\\users\\celal\\source\\repos\\lenacase1\\lenacase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|solutionrelative:lenacase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|c:\\users\\celal\\source\\repos\\lenacase1\\lenacase1\\eventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|solutionrelative:lenacase1\\eventscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|c:\\users\\celal\\source\\repos\\lenacase1\\lenacase1\\locationduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|solutionrelative:lenacase1\\locationduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|c:\\users\\celal\\source\\repos\\lenacase1\\lenacase1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|solutionrelative:lenacase1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|c:\\users\\celal\\source\\repos\\lenacase1\\lenacase1\\eventresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A05D3A0-EBF2-4138-9C63-29DF5AE403A2}|LenaCase1\\LenaCase1.csproj|solutionrelative:lenacase1\\eventresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventResult.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\EventResult.cs",
+              "RelativeDocumentMoniker": "LenaCase1\\EventResult.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\EventResult.cs",
+              "RelativeToolTip": "LenaCase1\\EventResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:50:54.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\EventScheduler.cs",
+              "RelativeDocumentMoniker": "LenaCase1\\EventScheduler.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\EventScheduler.cs",
+              "RelativeToolTip": "LenaCase1\\EventScheduler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vxsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:55:23.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationDuration.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\LocationDuration.cs",
+              "RelativeDocumentMoniker": "LenaCase1\\LocationDuration.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\LocationDuration.cs",
+              "RelativeToolTip": "LenaCase1\\LocationDuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:54:12.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\Event.cs",
+              "RelativeDocumentMoniker": "LenaCase1\\Event.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\Event.cs",
+              "RelativeToolTip": "LenaCase1\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:53:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\Program.cs",
+              "RelativeDocumentMoniker": "LenaCase1\\Program.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\LenaCase1\\LenaCase1\\Program.cs",
+              "RelativeToolTip": "LenaCase1\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAD4v0YAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:45:45.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

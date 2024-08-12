@@ -1,0 +1,14 @@
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\bin\Debug\net8.0\LenaCase1.exe
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\bin\Debug\net8.0\LenaCase1.deps.json
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\bin\Debug\net8.0\LenaCase1.runtimeconfig.json
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\bin\Debug\net8.0\LenaCase1.dll
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\bin\Debug\net8.0\LenaCase1.pdb
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.AssemblyInfoInputs.cache
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.AssemblyInfo.cs
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.csproj.CoreCompileInputs.cache
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.dll
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\refint\LenaCase1.dll
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.pdb
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\LenaCase1.genruntimeconfig.cache
+C:\Users\celal\source\repos\LenaCase1\LenaCase1\obj\Debug\net8.0\ref\LenaCase1.dll
